@@ -1,0 +1,2 @@
+CREATE DATABASE prueba1;
+USE prueba1;
